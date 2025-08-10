@@ -1,0 +1,8 @@
+let num = Number(prompt("Enter a number")); // convert to number
+let secnum = 25;
+
+while (secnum != num) {
+    num = Number(prompt("Enter the number again")); // also convert here
+}
+
+console.log("Congratulations!");
