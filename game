@@ -1,3 +1,4 @@
+
 let num = Number(prompt("Enter a number")); // convert to number
 let secnum = 25;
 
